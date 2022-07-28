@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Hosting-Page (project-11)](https://seo-page.netlify.app/)
+## [Link to the Hosting-Page (project-11)](https://hosting-page.netlify.app/)
 
 
 ![Completed Website](img1.png)
@@ -16,8 +16,10 @@ By Prince Kr Paswan
 
 ## What I learned While creating this page?
 
-- Learnd to use css position  property.
+- Learned about flex.
+- Learned Image position.
+- Learned Gradient color.
 - I learned how to add custom fonts.
 - I learned about image positioning and image hight.
 
-## This project took around 2 hours to complete.
+## This project took around 8 hours to complete.
