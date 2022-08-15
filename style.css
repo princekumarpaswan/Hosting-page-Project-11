@@ -583,17 +583,20 @@ footer{
     .sec4div{
         display: block;
         text-align: center;
+        width: 600px;
+        margin-left: 100px;
+        text-align: center;
     }
     .sec4div h1{
         font-size: 30px;
-        margin-left: -450px;
+        margin-left: -250px;
     }
 
     .sec4div p{
         font-size: 15px;
         line-height: 25px;
         width: 500px;
-        margin-left: 10px;
+        margin-left: -80px;
         margin-top: 5px;
     }
 
